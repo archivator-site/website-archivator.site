@@ -2,8 +2,6 @@ If you want to create your own archive of web pages you enjoyed, it can be a lis
 
 Refer to [github.com/renoirb/archivator][gh-repo] for the source-code, if you want an example [github.com/renoirb/archivator-demo][gh-demo-repo] (see [renoirb.github.io/archivator-demo][gh-demo-site])
 
-Ever wanted to archive your own copy of articles you enjoyed reading and to be able to search through them?
-
 | Version                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![npm](https://img.shields.io/npm/v/archivator?style=flat-square&logo=appveyor&label=npm&logo=npm)](https://www.npmjs.com/package/archivator) |
